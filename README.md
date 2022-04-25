@@ -1,5 +1,5 @@
-# Navigation_LifeCicles
-React Navigation LifeCicles example
+# ReactNavigationExamples
+React Navigation basic example
 
 # Installation
 
