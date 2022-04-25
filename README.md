@@ -1,4 +1,4 @@
-# ReactNavigationExamples
+# React Navigation Basic Examples
 React Navigation basic example
 
 # Installation
